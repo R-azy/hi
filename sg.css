@@ -1,0 +1,19 @@
+body{
+    background-image: url(moota.jpg);
+    background-size: cover;
+
+}
+
+.sg{
+    color: bisque;
+    padding-bottom: 50px;
+}
+.vd{
+    padding-left: 550px;
+    /* border-radius: 5; */
+    
+}
+.bt{
+    display: flex;
+    
+}
